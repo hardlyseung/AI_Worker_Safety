@@ -18,7 +18,7 @@ import RPi.GPIO as GPIO
 import time
 import platform
 
-from model_definition import LSTMAutoencoder  # 오토인코더 정의 import
+#from model_definition import LSTMAutoencoder  # 오토인코더 정의 import
 
 
 #영상 규격
